@@ -1,0 +1,4 @@
+path 的格式
+
+# if plan_found is true, this is an array of waypoints from start to goal, where the first one equals start and the last one equals goal
+geometry_msgs/PoseStamped[] path
